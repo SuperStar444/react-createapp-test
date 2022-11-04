@@ -23,7 +23,7 @@ function App() {
   #the-midwest
   http://www.cialug.org/
   https://cialug.slack.com/
-  http://dsmwebcollective.com/
+  http://dsmwebcollective.com
   https://dsmwebcollective.herokuapp.com/
   http://www.dsmwebgeeks.com/
   https://dsmwebgeeks.slack.com/
